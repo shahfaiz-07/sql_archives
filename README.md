@@ -42,6 +42,24 @@ ON
     employees.id = employeeuni.id;
 ```
 
+## List of SQL Solutions Added
+### SQL 50 LeetCode Problems
+
+- #### SELECT
+  - [584. Find Customer Referee](SQL50_Leetcode/01SELECT/584_FindCustomerReferee.sql)
+  - [595. Big Countries](SQL50_Leetcode/01SELECT/595_BigCountries.sql)
+  - [1148. Article Views I](SQL50_Leetcode/01SELECT/1148_ArticleViewsI.sql)
+  - [1683. Invalid Tweets](SQL50_Leetcode/01SELECT/1683_InvalidTweets.sql)
+  - [1757. Recyclable and Low Fat Products](SQL50_Leetcode/01SELECT/1757_RecyclableandLowFatProducts.sql)
+
+- #### BASIC JOINS
+  - [197. Rising Temperature](SQL50_Leetcode/02BASIC_JOINS/197_RisingTemperature.sql)
+  - [577. Employee Bonus](SQL50_Leetcode/02BASIC_JOINS/577_EmployeeBonus.sql)
+  - [1068. Product Sales Analysis I](SQL50_Leetcode/02BASIC_JOINS/1068_ProductSalesAnalysisI.sql)
+  - [1378. Replace Employee ID With The Unique Identifier](SQL50_Leetcode/02BASIC_JOINS/1378_ReplaceEmployeeIDWithTheUniqueIdentifier.sql)
+  - [1581. Customer Who Visited but Did Not Make Any Transactions](SQL50_Leetcode/02BASIC_JOINS/1581_CustomerWhoVisitedbutDidNotMakeAnyTransactions.sql)
+  - [1661. Average Time of Process per Machine](SQL50_Leetcode/02BASIC_JOINS/1661_AverageTimeofProcessperMachine.sql)
+
 ## Contribution
 
 Feel free to contribute by submitting a pull request. Please follow the same file and folder naming conventions as described above.
