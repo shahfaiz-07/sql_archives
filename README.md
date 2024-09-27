@@ -21,6 +21,7 @@ This repository contains my SQL solutions for various LeetCode problems. It is o
   - [1661. Average Time of Process per Machine](SQL50_Leetcode/02BASIC_JOINS/1661_AverageTimeofProcessperMachine.sql)
   - [1280. Students and Examinations](SQL50_Leetcode/02BASIC_JOINS/1280_StudentsandExaminations.sql)
   - [570. Managers with at Least 5 Direct Reports](SQL50_Leetcode/02BASIC_JOINS/570_ManagerswithatLeast5DirectReports.sql)
+  - [934. Confirmation Rate](SQL50_Leetcode/02BASIC_JOINS/1934_ConfirmationRate.sql)
 
 ## Structure
 
