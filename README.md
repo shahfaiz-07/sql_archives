@@ -20,6 +20,7 @@ This repository contains my SQL solutions for various LeetCode problems. It is o
   - [1581. Customer Who Visited but Did Not Make Any Transactions](SQL50_Leetcode/02BASIC_JOINS/1581_CustomerWhoVisitedbutDidNotMakeAnyTransactions.sql)
   - [1661. Average Time of Process per Machine](SQL50_Leetcode/02BASIC_JOINS/1661_AverageTimeofProcessperMachine.sql)
   - [1280. Students and Examinations](SQL50_Leetcode/02BASIC_JOINS/1280_StudentsandExaminations.sql)
+  - [570. Managers with at Least 5 Direct Reports](SQL50_Leetcode/02BASIC_JOINS/570_ManagerswithatLeast5DirectReports.sql)
 
 ## Structure
 
