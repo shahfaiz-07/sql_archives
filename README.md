@@ -23,6 +23,9 @@ This repository contains my SQL solutions for various LeetCode problems. It is o
   - [570. Managers with at Least 5 Direct Reports](SQL50_Leetcode/02BASIC_JOINS/570_ManagerswithatLeast5DirectReports.sql)
   - [934. Confirmation Rate](SQL50_Leetcode/02BASIC_JOINS/1934_ConfirmationRate.sql)
 
+- #### BASIC AGGREGATE FUNCTIONS
+  - [620. Not Boring Movies](SQL50_Leetcode/03BASIC_AGGREGATE_FUNCTIONS/620_NotBoringMovies.sql)
+
 ## Structure
 
 - **SQL50_Leetcode/**: This folder contains solutions for the SQL 50 questions from LeetCode. The problems are further categorized into subfolders based on the type of SQL operation, such as `select`, `basic_joins`, etc. Each file is named following the pattern: `question_number_problem_name.sql`.
