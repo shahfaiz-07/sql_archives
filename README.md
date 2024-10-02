@@ -26,6 +26,7 @@ This repository contains my SQL solutions for various LeetCode problems. It is o
 - #### BASIC AGGREGATE FUNCTIONS
   - [620. Not Boring Movies](SQL50_Leetcode/03BASIC_AGGREGATE_FUNCTIONS/620_NotBoringMovies.sql)
   - [1251. Average Selling Price](SQL50_Leetcode/03BASIC_AGGREGATE_FUNCTIONS/1251_AverageSellingPrice.sql)
+  - [1075. Project Employees I](SQL50_Leetcode/03BASIC_AGGREGATE_FUNCTIONS/1075_ProjectEmployeesI.sql)
 
 ## Structure
 
